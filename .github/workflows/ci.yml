@@ -1,0 +1,68 @@
+name: CI Build
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+env:
+  DOTNET_VERSION: '8.0.x'
+  NODE_VERSION: '20.x'
+
+jobs:
+  build:
+    name: Build (${{ matrix.configuration }})
+    runs-on: windows-latest
+
+    strategy:
+      fail-fast: false
+      matrix:
+        configuration: [Debug, Release]
+        platform: [x64]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+
+      - name: Restore dependencies
+        run: dotnet restore Confessio/Confessio.csproj
+        working-directory: ${{ github.workspace }}
+
+      - name: Build
+        run: dotnet build Confessio/Confessio.csproj -c ${{ matrix.configuration }} -p:Platform=${{ matrix.platform }}
+        working-directory: ${{ github.workspace }}
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: Confessio-${{ matrix.configuration }}-${{ matrix.platform }}
+          path: |
+            Confessio/Confessio/bin/${{ matrix.platform }}/${{ matrix.configuration }}/net8.0-windows10.0.19041.0/win-${{ matrix.platform }}/Confessio.exe
+            Confessio/Confessio/bin/${{ matrix.platform }}/${{ matrix.configuration }}/net8.0-windows10.0.19041.0/win-${{ matrix.platform }}/*.dll
+          if-no-files-found: ignore
+
+  analyze:
+    name: Analyze
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+
+      - name: Restore
+        run: dotnet restore Confessio/Confessio.csproj
+
+      - name: Run .NET analyzer
+        run: dotnet build Confessio/Confessio.csproj -c Release --no-restore
+        continue-on-error: true

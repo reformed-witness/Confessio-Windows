@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Confessio (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Confessio (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

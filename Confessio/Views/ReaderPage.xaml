@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="Confessio.Views.ReaderPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Confessio"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    SizeChanged="Page_SizeChanged">
+
+    <Grid x:Name="RootPanel" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition x:Name="OutlineColumn" Width="300" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Border x:Name="OutlinePane"
+                Grid.Row="1"
+                Grid.Column="0" 
+                Background="{ThemeResource SubtleFillColorSecondaryBrush}" 
+                BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}"
+                BorderThickness="0,0,1,0">
+            <ScrollViewer VerticalScrollBarVisibility="Auto" VerticalScrollMode="Auto">
+                <StackPanel x:Name="OutlineStack" Margin="8,16,8,16" Spacing="4" />
+            </ScrollViewer>
+        </Border>
+
+        <ScrollViewer x:Name="ReaderScrollViewer"
+                      Grid.Row="1"
+                      Grid.Column="1"
+                      Padding="48,24,48,48"
+                      VerticalScrollBarVisibility="Auto"
+                      VerticalScrollMode="Auto">
+            <StackPanel x:Name="ReaderStack" MaxWidth="800" HorizontalAlignment="Center" Spacing="32">
+                <StackPanel x:Name="ContentHeader" Spacing="16" HorizontalAlignment="Center">
+                    <TextBlock x:Name="DocumentTitleText"
+                               FontSize="32"
+                               FontWeight="SemiBold"
+                               FontFamily="Georgia"
+                               TextWrapping="WrapWholeWords"
+                               TextAlignment="Center"
+                               AutomationProperties.HeadingLevel="Level1" />
+                    <StackPanel Orientation="Horizontal" Spacing="8" HorizontalAlignment="Center">
+                        <TextBlock x:Name="MetadataYear"
+                                   Style="{StaticResource CaptionTextBlockStyle}"
+                                   Foreground="{ThemeResource TextFillColorSecondaryBrush}" />
+                        <TextBlock Text="•"
+                                   Foreground="{ThemeResource TextFillColorTertiaryBrush}" />
+                        <TextBlock x:Name="MetadataFormat"
+                                   Style="{StaticResource CaptionTextBlockStyle}"
+                                   Foreground="{ThemeResource TextFillColorSecondaryBrush}" />
+                        <TextBlock Text="•"
+                                   Foreground="{ThemeResource TextFillColorTertiaryBrush}" />
+                        <TextBlock x:Name="MetadataAuthors"
+                                   Style="{StaticResource CaptionTextBlockStyle}"
+                                   Foreground="{ThemeResource TextFillColorSecondaryBrush}" />
+                    </StackPanel>
+                    <TextBlock x:Name="MetadataLocation"
+                               Style="{StaticResource CaptionTextBlockStyle}"
+                               Foreground="{ThemeResource TextFillColorTertiaryBrush}"
+                               TextAlignment="Center" />
+                </StackPanel>
+
+                <StackPanel x:Name="EntryStack" Spacing="16" />
+            </StackPanel>
+        </ScrollViewer>
+
+        <StackPanel x:Name="EmptyStatePanel"
+                    Grid.Row="1"
+                    Grid.ColumnSpan="2"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Visibility="Collapsed">
+            <FontIcon Glyph="&#xE721;" FontSize="48" Foreground="{ThemeResource TextFillColorSecondaryBrush}" />
+            <TextBlock Text="Select a confession to read" HorizontalAlignment="Center" Margin="0,8,0,0" />
+        </StackPanel>
+
+    </Grid>
+</Page>

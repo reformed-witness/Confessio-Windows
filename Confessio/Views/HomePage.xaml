@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="Confessio.Views.HomePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Confessio"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    SizeChanged="Page_SizeChanged">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel x:Name="SummaryPanel" Margin="36,24,36,0" Grid.Row="0" Spacing="4">
+            <TextBlock x:Name="PageTitleText"
+                       Text="All confessions"
+                       Style="{StaticResource TitleTextBlockStyle}"
+                       AutomationProperties.HeadingLevel="Level1" />
+            <TextBlock x:Name="CountText" 
+                       Style="{StaticResource BodyTextBlockStyle}" 
+                       Foreground="{ThemeResource TextFillColorSecondaryBrush}" />
+        </StackPanel>
+
+        <GridView x:Name="DocumentGridView"
+                  Grid.Row="1"
+                  Padding="36,16,36,36"
+                  ItemsSource="{x:Bind FilteredDocuments, Mode=OneWay}"
+                  IsItemClickEnabled="True"
+                  IsSwipeEnabled="False"
+                  ItemClick="DocumentGridView_ItemClick"
+                  SelectionMode="None"
+                  AutomationProperties.AutomationId="DocumentGridView"
+                  AutomationProperties.Name="Confession documents">
+            <GridView.ItemContainerStyle>
+                <Style TargetType="GridViewItem">
+                    <Setter Property="MinWidth" Value="312" />
+                    <Setter Property="MaxWidth" Value="360" />
+                    <Setter Property="MinHeight" Value="116" />
+                    <Setter Property="Margin" Value="0,0,12,12" />
+                    <Setter Property="Padding" Value="0" />
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                    <Setter Property="VerticalContentAlignment" Value="Stretch" />
+                </Style>
+            </GridView.ItemContainerStyle>
+            <GridView.ItemTemplate>
+                <DataTemplate x:DataType="local:ConfessionDocument">
+                    <Border Style="{StaticResource LibraryCardBorderStyle}">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Border Width="44"
+                                    Height="44"
+                                    CornerRadius="8"
+                                    Background="{ThemeResource AccentFillColorSecondaryBrush}"
+                                    VerticalAlignment="Top"
+                                    Margin="0,0,16,0">
+                                <FontIcon Glyph="{x:Bind CollectionIcon}" 
+                                          FontSize="22" 
+                                          Foreground="{ThemeResource TextOnAccentFillColorPrimaryBrush}" 
+                                          VerticalAlignment="Center"
+                                          HorizontalAlignment="Center" />
+                            </Border>
+                            <StackPanel Grid.Column="1" Spacing="8">
+                                <TextBlock Text="{x:Bind DisplayTitle}"
+                                           Style="{StaticResource BodyStrongTextBlockStyle}"
+                                           TextWrapping="WrapWholeWords"
+                                           MaxLines="2" />
+                                <TextBlock Text="{x:Bind LibraryDetail}"
+                                           Style="{StaticResource CaptionTextBlockStyle}"
+                                           Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                                           TextTrimming="CharacterEllipsis" />
+                                <TextBlock Text="{x:Bind EntrySummary}"
+                                           Style="{StaticResource CaptionTextBlockStyle}"
+                                           Foreground="{ThemeResource TextFillColorTertiaryBrush}" />
+                            </StackPanel>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </GridView.ItemTemplate>
+        </GridView>
+
+        <StackPanel x:Name="EmptyStatePanel"
+                    Grid.Row="1"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Visibility="Collapsed">
+            <FontIcon Glyph="&#xE721;" FontSize="48" Foreground="{ThemeResource TextFillColorSecondaryBrush}" HorizontalAlignment="Center" />
+            <TextBlock Text="No confessions found" Style="{StaticResource SubtitleTextBlockStyle}" HorizontalAlignment="Center" Margin="0,8,0,0" />
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,25 @@
+# Build outputs
+bin/
+obj/
+
+# IDE
+.vs/
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# App specific
+publish/

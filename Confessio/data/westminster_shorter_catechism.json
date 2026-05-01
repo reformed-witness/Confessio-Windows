@@ -1,0 +1,2139 @@
+{
+    "Metadata":  {
+                     "Title":  "Westminster Shorter Catechism",
+                     "AlternativeTitles":  [
+                                               "The humble Advise of the Assembly of Divines setting at Westminster, Concerning A shorter Catechisme"
+                                           ],
+                     "Year":  "1647",
+                     "Authors":  [
+                                     "Westminster Assembly"
+                                 ],
+                     "Location":  "London, England",
+                     "OriginalLanguage":  "English",
+                     "OriginStory":  null,
+                     "SourceUrl":  "https://archive.org/details/bim_early-english-books-1641-1700_the-humble-advice-of-the_westminster-assembly-of-_1647_0",
+                     "SourceAttribution":  "Public Domain",
+                     "CreedFormat":  "Catechism"
+                 },
+    "Data":  [
+                 {
+                     "Number":  1,
+                     "Question":  "What is the chief end of man?",
+                     "Answer":  "Man\u0027s chief end is to glorify God, and to enjoy him for ever.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "1Cor.10.31"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Ps.73.25-Ps.73.26"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  2,
+                     "Question":  "What rule hath God given to direct us how we may glorify and enjoy him?",
+                     "Answer":  "The Word of God, which is contained in the Scriptures of the Old and New Testaments, is the only rule to direct us how we may glorify and enjoy him.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Eph.2.20",
+                                                           "2Tim.3.16"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "1John.1.3"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  3,
+                     "Question":  "What do the Scriptures principally teach?",
+                     "Answer":  "The Scriptures principally teach what man is to believe concerning God, and what duty God requires of man.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "2Tim.1.13",
+                                                       "Eccl.12.13"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  4,
+                     "Question":  "What is God?",
+                     "Answer":  "God is a Spirit, infinite, eternal, and unchangeable in his being, wisdom, power, holiness, justice, goodness, and truth.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "John.4.24"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Job.11.7"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Ps.90.2",
+                                                           "1Tim.1.17"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Jas.1.17"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  5,
+                                        "References":  [
+                                                           "Exod.3.14"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  6,
+                                        "References":  [
+                                                           "Ps.147.5"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  7,
+                                        "References":  [
+                                                           "Rev.4.8"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  8,
+                                        "References":  [
+                                                           "Exod.34.6-Exod.34.7"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  5,
+                     "Question":  "Are there more Gods than one?",
+                     "Answer":  "There is but one only, the living and true God.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Deut.6.4"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Jer.10.10"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  6,
+                     "Question":  "How many persons are there in the Godhead?",
+                     "Answer":  "There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "1John.5.7",
+                                                       "Matt.28.19"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  7,
+                     "Question":  "What are the decrees of God?",
+                     "Answer":  "The decrees of God are, his eternal purpose, according to the counsel of his will, whereby, for his own glory, he hath foreordained whatsoever comes to pass.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Eph.1.11-Eph.1.12"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  8,
+                     "Question":  "How doth God execute his decrees?",
+                     "Answer":  "God executeth his decrees in the works of creation and providence.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Eph.1.11"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  9,
+                     "Question":  "What is the work of creation?",
+                     "Answer":  "The work of creation is, God\u0027s making all things of nothing, by the word of his power, in the space of six days, and all very good.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Gen.1.1"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Heb.11.3"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Exod.20.11"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Gen.1.31"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  10,
+                     "Question":  "How did God create man?",
+                     "Answer":  "God created man male and female, after his own image, in knowledge, righteousness, and holiness, with dominion over the creatures.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Gen.1.27"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Col.3.10",
+                                                           "Eph.4.24"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Gen.1.28"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  11,
+                     "Question":  "What are God\u0027s works of providence?",
+                     "Answer":  "God\u0027s works of providence are, his most holy, wise, and powerful preserving and governing all his creatures, and all their actions.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Ps.145.17"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Isa.28.29"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Heb.1.3"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Ps.103.19",
+                                                           "Matt.10.29"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  12,
+                     "Question":  "What special act of providence did God exercise toward man in the estate wherein he was created?",
+                     "Answer":  "When God had created man, he entered into a covenant of life with him, upon condition of perfect obedience; forbidding him to eat of the tree of the knowledge of good and evil, upon pain of death.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Gal.3.12"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Gen.2.17"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  13,
+                     "Question":  "Did our first parents continue in the estate wherein they were created?",
+                     "Answer":  "Our first parents, being left to the freedom of their own will, fell from the estate wherein they were created, by sinning against God.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Eccl.7.29"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Gen.3.6-Gen.3.8"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  14,
+                     "Question":  "What is sin?",
+                     "Answer":  "Sin is any want of conformity unto, or transgression of, the law of God.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "1John.3.4"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  15,
+                     "Question":  "What was the sin whereby our first parents fell from the estate wherein they were created?",
+                     "Answer":  "The sin whereby our first parents fell from the estate wherein they were created, was their eating the forbidden fruit."
+                 },
+                 {
+                     "Number":  16,
+                     "Question":  "Did all mankind fall in Adam\u0027s first transgression?",
+                     "Answer":  "The covenant being made with Adam, not only for himself, but for his posterity; all mankind, descending from him by ordinary generation, sinned in him, and fell with him, in his first transgression.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "1Cor.15.22",
+                                                       "Rom.5.12"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  17,
+                     "Question":  "Into what estate did the fall bring mankind?",
+                     "Answer":  "The fall brought mankind into an estate of sin and misery.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Rom.5.18"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  18,
+                     "Question":  "Wherein consists the sinfulness of that estate whereinto man fell?",
+                     "Answer":  "The sinfulness of that estate whereinto man fell, consists in the guilt of Adam\u0027s first sin, the want of original righteousness, and the corruption of his whole nature, which is commonly called original sin; together with all actual transgressions which proceed from it.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Rom.5.19"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Rom.3.10"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Eph.2.1",
+                                                           "Ps.51.5"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Matt.15.19"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  19,
+                     "Question":  "What is the misery of that estate whereinto man fell?",
+                     "Answer":  "All mankind by their fall lost communion with God, are under his wrath and curse, and so made liable to all miseries in this life, to death itself, and to the pains of hell for ever.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Gen.3.8,Gen.3.24"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Eph.2.3",
+                                                           "Gal.3.10"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Rom.6.23",
+                                                           "Matt.25.41"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  20,
+                     "Question":  "Did God leave all mankind to perish in the estate of sin and misery?",
+                     "Answer":  "God having, out of his mere good pleasure, from all eternity, elected some to everlasting life did enter into a covenant of grace, to deliver them out of the estate of sin and misery, and to bring them into an estate of salvation by a Redeemer.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "2Thess.2.13"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Rom.5.21"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  21,
+                     "Question":  "Who is the Redeemer of God\u0027s elect?",
+                     "Answer":  "The only Redeemer of God\u0027s elect is the Lord Jesus Christ, who, being the eternal Son of God, became man and so was, and continueth to be, God and man in two distinct natures, and one person, forever.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "1Tim.2.5"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "John.1.14"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "1Tim.3.16",
+                                                           "Col.2.9"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  22,
+                     "Question":  "How did Christ, being the Son of God, become man?",
+                     "Answer":  "Christ, the Son of God, became man, by taking to himself a true body, and a reasonable soul, being conceived by the power of the Holy Ghost, in the womb of the virgin Mary, and born of her yet without sin.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Heb.2.14"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Matt.26.38",
+                                                           "Heb.4.15"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Luke.1.31,Luke.1.35"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Heb.7.26"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  23,
+                     "Question":  "What offices doth Christ execute as our Redeemer?",
+                     "Answer":  "Christ, as our Redeemer, executeth the offices of a prophet, of a priest, and of a king, both in his estate of humiliation and exaltation."
+                 },
+                 {
+                     "Number":  24,
+                     "Question":  "How doth Christ execute the office of a prophet?",
+                     "Answer":  "Christ executeth the office of a prophet, in revealing to us, by his Word and Spirit the will of God for our salvation.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "John.1.18"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "1Pet.1.10-1Pet.1.12"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Heb.1.1-Heb.1.2"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "John.15.15"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  5,
+                                        "References":  [
+                                                           "Acts.20.32",
+                                                           "Eph.4.11-Eph.4.13",
+                                                           "John.20.31"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  25,
+                     "Question":  "How doth Christ execute the office of a priest?",
+                     "Answer":  "Christ executeth the office of a priest, in his once offering up of himself a sacrifice to satisfy divine justice, and reconcile us to God; and in making continual intercession for us.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Heb.9.28"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Heb.2.17"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Heb.7.25"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  26,
+                     "Question":  "How doth Christ execute the office of a king?",
+                     "Answer":  "Christ executeth the office of a king, in subduing us to himself, in ruling and defending us, and in restraining and conquering all his and our enemies.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Ps.110.3"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Matt.2.6",
+                                                           "1Cor.15.25"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  27,
+                     "Question":  "Wherein did Christ\u0027s humiliation consist?",
+                     "Answer":  "Christ\u0027s humiliation consisted in his being born, and that in a low condition, made under the law, undergoing the miseries of this life, the wrath of God, and the cursed death of the cross; in being buried, and continuing under the power of death for a time.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Luke.2.7"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Gal.4.4"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Isa.53.3"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Matt.27.46"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  5,
+                                        "References":  [
+                                                           "Phil.2.8"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  6,
+                                        "References":  [
+                                                           "Matt.12.40"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  28,
+                     "Question":  "Wherein consisteth Christ\u0027s exaltation?",
+                     "Answer":  "Christ\u0027s exaltation consisteth in his rising again from the dead on the third day, in ascending up into heaven, in sitting at the right hand of God the Father, and in coming to judge the world at the last day.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "1Cor.15.4"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Mark.16.19"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Acts.17.31"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  29,
+                     "Question":  "How are we made partakers of the redemption purchased by Christ?",
+                     "Answer":  "We are made partakers of the redemption purchased by Christ, by the effectual application of it to us by his Holy Spirit.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "John.1.12"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Titus.3.5-Titus.3.6"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  30,
+                     "Question":  "How doth the Spirit apply to us the redemption purchased by Christ?",
+                     "Answer":  "The Spirit applieth to us the redemption purchased by Christ, by working faith in us, and thereby uniting us to Christ in our effectual calling."
+                 },
+                 {
+                     "Number":  31,
+                     "Question":  "What is effectual calling?",
+                     "Answer":  "Effectual calling is the work of God\u0027s Spirit, whereby, convincing us of our sin and misery, enlightening our minds in the knowledge of Christ, and renewing our wills, he doth persuade and enable us to embrace Jesus Christ, freely offered to us in the gospel.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "2Tim.1.9"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Acts.2.37"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Acts.26.18"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Ezek.36.26"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  5,
+                                        "References":  [
+                                                           "John.6.44-John.6.45"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  32,
+                     "Question":  "What benefits do they that are effectually called partake of in this life?",
+                     "Answer":  "They that are effectually called do in this life partake of justification, adoption, and sanctification, and the several benefits which in this life do either accompany or flow from them.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Rom.8.30"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Eph.1.5"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "1Cor.1.30"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  33,
+                     "Question":  "What is justification?",
+                     "Answer":  "Justification is an act of God\u0027s free grace, wherein he pardoneth all our sins, and accepteth us as righteous in his sight, only for the righteousness of Christ imputed to us, and received by faith alone.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Rom.3.24",
+                                                           "Eph.1.7"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "2Cor.5.21"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Rom.5.19"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Gal.2.16",
+                                                           "Phil.3.9"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  34,
+                     "Question":  "What is adoption?",
+                     "Answer":  "Adoption is an act of God\u0027s free grace, whereby we are received into the number, and have a right to all the privileges, of the sons of God.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "1John.3.1"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "John.1.12",
+                                                           "Rom.8.17"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  35,
+                     "Question":  "What is sanctification?",
+                     "Answer":  "Sanctification is the work of God\u0027s free grace, whereby we are renewed in the whole man after the image of God, and are enabled more and more to die unto sin, and live unto righteousness.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "2Thess.2.13"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Eph.4.24"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Rom.6.11"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  36,
+                     "Question":  "What are the benefits which in this life do accompany or flow from justification, adoption, and sanctification?",
+                     "Answer":  "The benefits which in this life do accompany or flow from justification, adoption, and sanctification, are, assurance of God\u0027s love, peace of conscience, joy in the Holy Ghost, increase of grace, and perseverance therein to the end.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Rom.5.1-Rom.5.2,Rom.5.5"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Rom.14.17"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Prov.4.18",
+                                                           "1John.5.13",
+                                                           "1Pet.1.5"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  37,
+                     "Question":  "What benefits do believers receive from Christ at death?",
+                     "Answer":  "The souls of believers are at their death made perfect in holiness, and do immediately pass into glory; and their bodies, being still united to Christ, do rest in their graves till the resurrection.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Heb.12.23"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Phil.1.23",
+                                                           "2Cor.5.8",
+                                                           "Luke.23.43"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "1Thess.4.14"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Isa.57.2"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  5,
+                                        "References":  [
+                                                           "Job.19.26"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  38,
+                     "Question":  "What benefits do believers receive from Christ at the resurrection?",
+                     "Answer":  "At the resurrection, believers being raised up in glory, shall be openly acknowledged and acquitted in the day of judgment, and made perfectly blessed in the full enjoying of God to all eternity.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "1Cor.15.43"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Matt.10.32"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "1John.3.2"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "1Thess.4.17"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  39,
+                     "Question":  "What is the duty which God requireth of man?",
+                     "Answer":  "The duty which God requireth of man, is obedience to his revealed will.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Rom.12.1-Rom.12.2",
+                                                       "Mic.6.8",
+                                                       "1Sam.15.22"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  40,
+                     "Question":  "What did God at first reveal to man for the rule of his obedience?",
+                     "Answer":  "The rule which God at first revealed to man for his obedience, was the moral law.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Deut.10.4",
+                                                       "Matt.19.17"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  41,
+                     "Question":  "Wherein is the moral law summarily comprehended?",
+                     "Answer":  "The moral law is summarily comprehended in the ten commandments."
+                 },
+                 {
+                     "Number":  42,
+                     "Question":  "What is the sum of the ten commandments?",
+                     "Answer":  "The sum of the ten commandments is, To love the Lord our God with all our heart, with all our soul, with all our strength, and with all our mind; and our neighbour as ourselves.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Matt.22.37-Matt.22.40"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  43,
+                     "Question":  "What is the preface to the ten commandments?",
+                     "Answer":  "The preface to the ten commandments is in these words, I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage. ",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Exod.20.2"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Isa.44.6"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Exod.3.14"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Exod.6.3"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  5,
+                                        "References":  [
+                                                           "Acts.17.24,Acts.17.28"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  6,
+                                        "References":  [
+                                                           "Gen.17.7",
+                                                           "Rom.3.29"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  7,
+                                        "References":  [
+                                                           "Luke.1.74-Luke.1.75"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  8,
+                                        "References":  [
+                                                           "1Pet.1.15-1Pet.1.18",
+                                                           "Lev.18.30,Lev.19.37"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  44,
+                     "Question":  "What doth the preface to the ten commandments teach us?",
+                     "Answer":  "The preface to the ten commandments teacheth us, That because God is the Lord, and our God, and Redeemer, therefore we are bound to keep all his commandments."
+                 },
+                 {
+                     "Number":  45,
+                     "Question":  "Which is the first commandment?",
+                     "Answer":  "The first commandment is, Thou shalt have no other gods before me.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Exod.20.3"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  46,
+                     "Question":  "What is required in the first commandment?",
+                     "Answer":  "The first commandment requireth us to know and acknowledge God to be the only true God, and our God; and to worship and glorify him accordingly.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "1Chr.28.9"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Deut.26.17"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Matt.4.10"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  47,
+                     "Question":  "What is forbidden in the first commandment?",
+                     "Answer":  "The first commandment forbiddeth the denying, or not worshipping and glorifying the true God as God, and our God; and the giving of that worship and glory to any other, which is due to him alone."
+                 },
+                 {
+                     "Number":  48,
+                     "Question":  "What are we specially taught by these words, \u0027before me\u0027, in the first commandment?",
+                     "Answer":  "These words, before me, in the first commandment teach us, that God, who seeth all things, taketh notice of, and is much displeased with, the sin of having any other God.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Ezek.8.5-Ezek.8.18",
+                                                           "Ps.44.20-Ps.44.21"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "1Chr.28.9"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  49,
+                     "Question":  "Which is the second commandment?",
+                     "Answer":  "The second commandment is, Thou shalt not make unto thee any graven image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: thou shalt not bow down thy self to them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto thousands of them that love me, and keep my commandments.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Exod.20.4-Exod.20.6"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  50,
+                     "Question":  "What is required in the second commandment?",
+                     "Answer":  "The second commandment requireth the receiving, observing, and keeping pure and entire, all such religious worship and ordinances as God hath appointed in his Word.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Deut.32.46",
+                                                           "Matt.28.20"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Deut.12.32"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  51,
+                     "Question":  "What is forbidden in the second commandment?",
+                     "Answer":  "The second commandment forbiddeth the worshipping of God by images, or any other way not appointed in his Word.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Deut.4.15-Deut.4.16"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Col.2.18"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  52,
+                     "Question":  "What are the reasons annexed to the second commandment?",
+                     "Answer":  "The reasons annexed to the second commandment are, God\u0027s sovereignty over us, his propriety in us, and the zeal he hath to his own worship.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Exod.20.5-Exod.20.6"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Ps.45.11",
+                                                           "Rev.20.3-Rev.20.4"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Exod.34.13-Exod.34.14"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "1Cor.10.20-1Cor.10.22",
+                                                           "Jer.7.18-Jer.7.20",
+                                                           "Ezek.16.26-Ezek.16.27",
+                                                           "Deut.32.16-Deut.32.20"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  5,
+                                        "References":  [
+                                                           "Hos.2.2-Hos.2.4"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  6,
+                                        "References":  [
+                                                           "Deut.5.29"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  53,
+                     "Question":  "Which is the third commandment?",
+                     "Answer":  "The third commandment is, Thou shalt not take the name of the Lord thy God in vain; for the Lord will not hold him guiltless that taketh his name in vain. ",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Exod.20.7"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  54,
+                     "Question":  "What is required in the third commandment?",
+                     "Answer":  "The third commandment requireth the holy and reverend use of God\u0027s names, titles, attributes, ordinances, Word, and works."
+                 },
+                 {
+                     "Number":  55,
+                     "Question":  "What is forbidden in the third commandment?",
+                     "Answer":  "The third commandment forbiddeth all profaning or abusing of anything whereby God maketh himself known."
+                 },
+                 {
+                     "Number":  56,
+                     "Question":  "What is the reason annexed to the third commandment?",
+                     "Answer":  "The reason annexed to the third commandment is, that however the breakers of this commandment may escape punishment from men, yet the Lord our God will not suffer them to escape his righteous judgment."
+                 },
+                 {
+                     "Number":  57,
+                     "Question":  "Which is the fourth commandment?",
+                     "Answer":  "The fourth commandment is, Remember the sabbath day, to keep it holy. Six days shalt thou labor, and do all thy work; but the seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates. For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the sabbath day, and hallowed it.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Exod.20.8-Exod.20.11"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  58,
+                     "Question":  "What is required in the fourth commandment?",
+                     "Answer":  "The fourth commandment requireth the keeping holy to God such set times as he hath appointed in his Word; expressly one whole day in seven, to be a holy sabbath to himself.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Lev.19.30",
+                                                       "Deut.5.12"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  59,
+                     "Question":  "Which day of the seven hath God appointed to be the weekly sabbath?",
+                     "Answer":  "From the beginning of the world to the resurrection of Christ, God appointed the seventh day of the week to be the weekly sabbath; and the first day of the week ever since, to continue to the end of the world, which is the Christian sabbath.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Deut.5.12,Deut.5.14,Deut.5.18",
+                                                           "Gen.2.2-Gen.2.3",
+                                                           "1Cor.16.1-1Cor.16.2",
+                                                           "Acts.20.7",
+                                                           "Matt.5.17-Matt.5.18",
+                                                           "Isa.56.2,Isa.56.4,Isa.56.6-Isa.56.7"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Rev.1.10"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  60,
+                     "Question":  "How is the sabbath to be sanctified?",
+                     "Answer":  "The sabbath is to be sanctified by a holy resting all that day, even from such worldly employments and recreations as are lawful on other days; and spending the whole time in the public and private exercises of God\u0027s worship, except so much as is to be taken up in the works of necessity and mercy.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Lev.23.3"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Ps.92.1-Ps.92.2",
+                                                           "Isa.58.13-Isa.58.14"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Matt.12.11-Matt.12.12"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  61,
+                     "Question":  "What is forbidden in the fourth commandment?",
+                     "Answer":  "The fourth commandment forbiddeth the omission or careless performance of the duties required, and the profaning the day by idleness, or doing that which is in itself sinful, or by unnecessary thoughts, words, or works, about our worldly employments or recreations."
+                 },
+                 {
+                     "Number":  62,
+                     "Question":  "What are the reasons annexed to the fourth commandment?",
+                     "Answer":  "The reasons annexed to the fourth commandment are, God\u0027s allowing us six days of the week for our own employments, his challenging a special propriety in the seventh, his own example, and his blessing the sabbath day.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Exod.20.9"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Exod.20.10"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Exod.20.11"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  63,
+                     "Question":  "Which is the fifth commandment?",
+                     "Answer":  "The fifth commandment is, Honour thy father and thy mother; that thy days may be long upon the land which the Lord thy God giveth thee.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Exod.20.12"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  64,
+                     "Question":  "What is required in the fifth commandment?",
+                     "Answer":  "The fifth commandment requireth the preserving the honor, and performing the duties, belonging to everyone in their several places and relations, as superiors, inferiors, or equals."
+                 },
+                 {
+                     "Number":  65,
+                     "Question":  "What is forbidden in the fifth commandment?",
+                     "Answer":  "The fifth commandment forbiddeth the neglecting of, or doing anything against, the honor and duty which belongeth to everyone in their several places and relations."
+                 },
+                 {
+                     "Number":  66,
+                     "Question":  "What is the reason annexed to the fifth commandment?",
+                     "Answer":  "The reason annexed to the fifth commandment is, a promise of long life and prosperity (as far as it shall serve for God\u0027s glory and their own good) to all such as keep this commandment.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Eph.6.2-Eph.6.3"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  67,
+                     "Question":  "Which is the sixth commandment?",
+                     "Answer":  "The sixth commandment is, Thou shalt not kill.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Exod.20.13"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  68,
+                     "Question":  "What is required in the sixth commandment?",
+                     "Answer":  "The sixth commandment requireth all lawful endeavors to preserve our own life, and the life of others."
+                 },
+                 {
+                     "Number":  69,
+                     "Question":  "What is forbidden in the sixth commandment?",
+                     "Answer":  "The sixth commandment forbiddeth the taking away of our own life, or the life of our neighbour, unjustly, or whatsoever tendeth thereunto."
+                 },
+                 {
+                     "Number":  70,
+                     "Question":  "Which is the seventh commandment?",
+                     "Answer":  "The seventh commandment is, Thou shalt not commit adultery.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Exod.20.14"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  71,
+                     "Question":  "What is required in the seventh commandment?",
+                     "Answer":  "The seventh commandment requireth the preservation of our own and our neighbour\u0027s chastity, in heart, speech, and behavior."
+                 },
+                 {
+                     "Number":  72,
+                     "Question":  "What is forbidden in the seventh commandment?",
+                     "Answer":  "The seventh commandment forbiddeth all unchaste thoughts, words, and actions.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Matt.5.28",
+                                                           "Col.4.6"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Eph.5.4",
+                                                           "2Tim.2.22"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Eph.5.3"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  73,
+                     "Question":  "Which is the eighth commandment?",
+                     "Answer":  "The eighth commandment is, Thou shalt not steal.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Exod.20.15"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  74,
+                     "Question":  "What is required in the eighth commandment?",
+                     "Answer":  "The eighth commandment requireth the lawful procuring and furthering the wealth and outward estate of ourselves and others."
+                 },
+                 {
+                     "Number":  75,
+                     "Question":  "What is forbidden in the eighth commandment?",
+                     "Answer":  "The eighth commandment forbiddeth whatsoever doth, or may, unjustly hinder our own, or our neighbour\u0027s, wealth or outward estate."
+                 },
+                 {
+                     "Number":  76,
+                     "Question":  "Which is the ninth commandment?",
+                     "Answer":  "The ninth commandment is, Thou shalt not bear false witness against thy neighbour. ",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "Exod.20.16"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  77,
+                     "Question":  "What is required in the ninth commandment?",
+                     "Answer":  "The ninth commandment requireth the maintaining and promoting of truth between man and man, and of our own and our neighbour\u0027s good name, especially in witness bearing.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Zech.8.16"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "1Pet.3.16",
+                                                           "Acts.25.10"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "3John.1.12"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Prov.14.5,Prov.14.25"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  78,
+                     "Question":  "What is forbidden in the ninth commandment?",
+                     "Answer":  "The ninth commandment forbiddeth whatsoever is prejudicial to truth, or injurious to our own, or our neighbour\u0027s, good name."
+                 },
+                 {
+                     "Number":  79,
+                     "Question":  "Which is the tenth commandment?",
+                     "Answer":  "The tenth commandment is, Thou shalt not covet thy neighbour\u0027s house, thou shalt not covet thy neighbour\u0027s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor anything that is thy neighbour\u0027s."
+                 },
+                 {
+                     "Number":  80,
+                     "Question":  "What is required in the tenth commandment?",
+                     "Answer":  "The tenth commandment requireth full contentment with our own condition, with a right and charitable frame of spirit toward our neighbour, and all that is his."
+                 },
+                 {
+                     "Number":  81,
+                     "Question":  "What is forbidden in the tenth commandment?",
+                     "Answer":  "The tenth commandment forbiddeth all discontentment with our own estate, envying or grieving at the good of our neighbour, and all inordinate motions and affections to anything that is his.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "1Cor.10.10"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Gal.5.26"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Col.3.5"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  82,
+                     "Question":  "Is any man able perfectly to keep the commandments of God?",
+                     "Answer":  "No mere man, since the fall, is able in this life perfectly to keep the commandments of God, but doth daily break them in thought, word, and deed.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Eccl.7.20"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Gen.8.21"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Jas.3.8"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Jas.3.2"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  83,
+                     "Question":  "Are all transgressions of the law equally heinous?",
+                     "Answer":  "Some sins in themselves, and by reason of several aggravations, are more heinous in the sight of God than others.",
+                     "Proofs":  {
+                                    "Id":  1,
+                                    "References":  [
+                                                       "John.19.11",
+                                                       "1John.5.15"
+                                                   ]
+                                }
+                 },
+                 {
+                     "Number":  84,
+                     "Question":  "What doth every sin deserve?",
+                     "Answer":  "Every sin deserveth God\u0027s wrath and curse, both in this life, and that which is to come.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Jas.2.10-Jas.2.11"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Exod.20.1-Exod.20.2"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Hab.1.13",
+                                                           "Lev.10.3",
+                                                           "Lev.11.44-Lev.11.45"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "1John.3.4",
+                                                           "Rom.7.12"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  5,
+                                        "References":  [
+                                                           "Eph.5.6",
+                                                           "Gal.3.10"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  6,
+                                        "References":  [
+                                                           "Lam.3.39",
+                                                           "Deut.28.15-Deut.28.68"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  7,
+                                        "References":  [
+                                                           "Matt.25.41"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  8,
+                                        "References":  [
+                                                           "Heb.9.22",
+                                                           "1Pet.1.18-1Pet.1.19"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  85,
+                     "Question":  "What doth God require of us, that we may escape his wrath and curse, due to us for sin?",
+                     "Answer":  "To escape the wrath and curse of God, due to us for sin, God requireth of us faith in Jesus Christ, repentance unto life, with the diligent use of all the outward means whereby Christ communicateth to us the benefits of redemption."
+                 },
+                 {
+                     "Number":  86,
+                     "Question":  "What is faith in Jesus Christ?",
+                     "Answer":  "Faith in Jesus Christ is a saving grace, whereby we receive and rest upon him alone for salvation, as he is offered to us in the gospel.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Heb.10.39"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "John.1.12"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Phil.3.9"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Isa.33.22"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  87,
+                     "Question":  "What is repentance unto life?",
+                     "Answer":  "Repentance unto life is a saving grace, whereby a sinner, out of a true sense of his sin, and apprehension of the mercy of God in Christ, doth, with grief and hatred of his sin, turn from it unto God, with full purpose of, and endeavour after, new obedience.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Acts.11.18"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Acts.2.37"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Joel.2.13"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Jer.31.18-Jer.31.19"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  5,
+                                        "References":  [
+                                                           "Ps.119.59"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  88,
+                     "Question":  "What are the outward and ordinary means whereby Christ communicateth to us the benefits of redemption?",
+                     "Answer":  "The outward and ordinary means whereby Christ communicateth to us the benefits of redemption are, his ordinances, especially the Word, sacraments, and prayer; all which are made effectual to the elect for salvation."
+                 },
+                 {
+                     "Number":  89,
+                     "Question":  "How is the Word made effectual to salvation?",
+                     "Answer":  "The Spirit of God maketh the reading, but especially the preaching of the Word, an effectual means of convincing and converting sinners, and of building them up in holiness and comfort, through faith, unto salvation.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Ps.19.7"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "1Thess.1.6"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Rom.1.16"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  90,
+                     "Question":  "How is the Word to be read and heard, that it may become effectual to salvation?",
+                     "Answer":  "That the Word may become effectual to salvation, we must attend thereunto with diligence, preparation, and prayer; receive it with faith and love, lay it up in our hearts, and practice it in our lives.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Prov.8.34",
+                                                           "1Pet.2.1-1Pet.2.2"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Ps.119.18"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Heb.4.2"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "2Thess.2.10"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  5,
+                                        "References":  [
+                                                           "Ps.119.11"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  6,
+                                        "References":  [
+                                                           "Jas.1.25"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  91,
+                     "Question":  "How do the sacraments become effectual means of salvation?",
+                     "Answer":  "The sacraments become effectual means of salvation, not from any virtue in them, or in him that doth administer them; but only by the blessing of Christ, and the working of his Spirit in them that by faith receive them."
+                 },
+                 {
+                     "Number":  92,
+                     "Question":  "What is a sacrament?",
+                     "Answer":  "A sacrament is an holy ordinance instituted by Christ; wherein, by sensible signs, Christ, and the benefits of the new covenant, are represented, sealed, and applied to believers."
+                 },
+                 {
+                     "Number":  93,
+                     "Question":  "Which are the sacraments of the New Testament?",
+                     "Answer":  "The sacraments of the New Testament are, Baptism, and the Lord\u0027s Supper.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Mark.16.15"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Matt.28.19-Matt.28.20"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "1Cor.11.23-1Cor.11.25"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "2Cor.3.6-2Cor.3.9",
+                                                           "Heb.8.6,Heb.8.10-Heb.8.11",
+                                                           "Matt.28.19"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  94,
+                     "Question":  "What is Baptism?",
+                     "Answer":  "Baptism is a sacrament, wherein the washing with water in the name of the Father, and of the Son, and of the Holy Ghost, doth signify and seal our ingrafting into Christ, and partaking of the benefits of the covenant of grace, and our engagement to be the Lord\u0027s."
+                 },
+                 {
+                     "Number":  95,
+                     "Question":  "To whom is Baptism to be administered?",
+                     "Answer":  "Baptism is not to be administered to any that are out of the visible church, till they profess their faith in Christ, and obedience to him; but the infants of such as are members of the visible church are to be baptized."
+                 },
+                 {
+                     "Number":  96,
+                     "Question":  "What is the Lord\u0027s Supper?",
+                     "Answer":  "The Lord\u0027s Supper is a sacrament, wherein, by giving and receiving bread and wine, according to Christ\u0027s appointment, his death is showed forth; and the worthy receivers are, not after a corporal and carnal manner, but by faith, made partakers of his body and blood, with all his benefits, to their spiritual nourishment, and growth in grace.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "1Cor.11.23-1Cor.11.26"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "1Cor.10.16"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  97,
+                     "Question":  "What is required for the worthy receiving of the Lord\u0027s Supper?",
+                     "Answer":  "It is required of them that would worthily partake of the Lord\u0027s Supper, that they examine themselves of their knowledge to discern the Lord\u0027s body, of their faith to feed upon him, of their repentance, love, and new obedience; lest, coming unworthily, they eat and drink judgment to themselves.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "1Cor.11.28-1Cor.11.29"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "2Cor.13.5"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "1Cor.11.31"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "1Cor.11.18-1Cor.11.20"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  5,
+                                        "References":  [
+                                                           "1Cor.5.8"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  6,
+                                        "References":  [
+                                                           "1Cor.11.27-1Cor.11.29"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  98,
+                     "Question":  "What is prayer?",
+                     "Answer":  "Prayer is an offering up of our desires unto God, for things agreeable to his will, in the name of Christ, with confession of our sins, and thankful acknowledgement of his mercies."
+                 },
+                 {
+                     "Number":  99,
+                     "Question":  "What rule hath God given for our direction in prayer?",
+                     "Answer":  "The whole Word of God is of use to direct us in prayer; but the special rule of direction is that form of prayer which Christ taught his disciples, commonly called The Lord\u0027s Prayer.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "1John.5.14"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Matt.6.2-Matt.6.13",
+                                                           "Luke.11.2-Luke.11.4"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  100,
+                     "Question":  "What doth the preface of the Lord\u0027s Prayer teach us?",
+                     "Answer":  "The preface of the Lord\u0027s Prayer, which is, Our Father which art in heaven, teacheth us to draw near to God with all holy reverence and confidence, as children to a father, able and ready to help us; and that we should pray with and for others."
+                 },
+                 {
+                     "Number":  101,
+                     "Question":  "What do we pray for in the first petition?",
+                     "Answer":  "In the first petition, which is, Hallowed be thy name, we pray, that God would enable us, and others, to glorify him in all that whereby he maketh himself known; and that he would dispose all things to his own glory.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Matt.6.9"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "2Cor.3.5",
+                                                           "Ps.51.15"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Ps.67.2-Ps.67.3"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Ps.83.18"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  5,
+                                        "References":  [
+                                                           "Ps.86.10-Ps.86.13,Ps.86.15"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  6,
+                                        "References":  [
+                                                           "2Thess.3.1",
+                                                           "Ps.138.1-Ps.138.3",
+                                                           "Ps.147.19-Ps.147.20",
+                                                           "2Cor.2.14-2Cor.2.15"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  7,
+                                        "References":  [
+                                                           "Ps.145",
+                                                           "Ps.8"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  8,
+                                        "References":  [
+                                                           "Ps.19.14",
+                                                           "Ps.103.1"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  9,
+                                        "References":  [
+                                                           "Phil.1.9,Phil.1.11"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  10,
+                                        "References":  [
+                                                           "Ps.67.1-Ps.67.4"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  11,
+                                        "References":  [
+                                                           "Eph.1.17-Eph.1.18"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  12,
+                                        "References":  [
+                                                           "Ps.97.7"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  13,
+                                        "References":  [
+                                                           "Ps.74.18,Ps.74.22-Ps.74.23"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  14,
+                                        "References":  [
+                                                           "2Kgs.19.15-2Kgs.19.16"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  15,
+                                        "References":  [
+                                                           "2Chr.20.6,2Chr.20.10-2Chr.20.12",
+                                                           "Ps.83",
+                                                           "Ps.140.4,Ps.140.8"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  102,
+                     "Question":  "What do we pray for in the second petition?",
+                     "Answer":  "In the second petition, which is, Thy kingdom come, we pray, that Satan\u0027s kingdom may be destroyed; and that the kingdom of grace may be advanced, ourselves and others brought into it, and kept in it; and that the kingdom of glory may be hastened."
+                 },
+                 {
+                     "Number":  103,
+                     "Question":  "What do we pray for in the third petition?",
+                     "Answer":  "In the third petition, which is, Thy will be done in earth, as it is in heaven, we pray, that God, by his grace, would make us able and willing to know, obey, and submit to his will in all things, as the angels do in heaven.",
+                     "Proofs":  [
+                                    {
+                                        "Id":  1,
+                                        "References":  [
+                                                           "Matt.6.10"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  2,
+                                        "References":  [
+                                                           "Rom.7.18",
+                                                           "Job.21.14",
+                                                           "1Cor.2.14"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  3,
+                                        "References":  [
+                                                           "Rom.8.7"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  4,
+                                        "References":  [
+                                                           "Exod.17.7",
+                                                           "Num.14.2"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  5,
+                                        "References":  [
+                                                           "Eph.2.2"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  6,
+                                        "References":  [
+                                                           "Eph.1.17-Eph.1.18"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  7,
+                                        "References":  [
+                                                           "Eph.3.16"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  8,
+                                        "References":  [
+                                                           "Matt.26.40-Matt.26.41"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  9,
+                                        "References":  [
+                                                           "Jer.31.18-Jer.31.19"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  10,
+                                        "References":  [
+                                                           "Ps.119.1,Ps.119.8,Ps.119.35-Ps.119.36",
+                                                           "Acts.21.14"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  11,
+                                        "References":  [
+                                                           "Mic.6.8"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  12,
+                                        "References":  [
+                                                           "Ps.100.2",
+                                                           "Job.1.21",
+                                                           "2Sam.15.25-2Sam.15.26"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  13,
+                                        "References":  [
+                                                           "Isa.38.3"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  14,
+                                        "References":  [
+                                                           "Ps.119.4-Ps.119.5"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  15,
+                                        "References":  [
+                                                           "Rom.12.11"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  16,
+                                        "References":  [
+                                                           "Ps.119.80"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  17,
+                                        "References":  [
+                                                           "Ps.119.112"
+                                                       ]
+                                    },
+                                    {
+                                        "Id":  18,
+                                        "References":  [
+                                                           "Isa.6.2-Isa.6.3",
+                                                           "Ps.103.20-Ps.103.21",
+                                                           "Matt.18.10"
+                                                       ]
+                                    }
+                                ]
+                 },
+                 {
+                     "Number":  104,
+                     "Question":  "What do we pray for in the fourth petition?",
+                     "Answer":  "In the fourth petition, which is, Give us this day our daily bread, we pray that of God\u0027s free gift we may receive a competent portion of the good things of this life, and enjoy his blessing with them."
+                 },
+                 {
+                     "Number":  105,
+                     "Question":  "What do we pray for in the fifth petition?",
+                     "Answer":  "In the fifth petition, which is, And forgive us our debts, as we forgive our debtors, we pray that God, for Christ\u0027s sake, would freely pardon all our sins; which we are the rather encouraged to ask, because by his grace we are enabled from the heart to forgive others."
+                 },
+                 {
+                     "Number":  106,
+                     "Question":  "What do we pray for in the sixth petition?",
+                     "Answer":  "In the sixth petition, which is, And lead us not into temptation, but deliver us from evil, we pray, that God would either keep us from being tempted to sin, or support and deliver us when we are tempted."
+                 },
+                 {
+                     "Number":  107,
+                     "Question":  "What doth the conclusion of the Lord\u0027s Prayer teach us?",
+                     "Answer":  "The conclusion of the Lord\u0027s Prayer, which is, For thine is the kingdom, and the power, and the glory, for ever, Amen. teacheth us to take our encouragement in prayer from God only, and in our prayers to praise him, ascribing kingdom, power, and glory to him; and, in testimony of our desire, and assurance to be heard, we say, Amen."
+                 }
+             ]
+}
